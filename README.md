@@ -35,9 +35,9 @@ The following are examples of possible synergies:
 
 ### Offices for support of other offices
 
-- helping with projects 
-- coverage when needed
-- supporting each other 
+- hello
+- hi
+- Hey
 
 ### Both/in-between
 
