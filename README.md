@@ -29,7 +29,7 @@ The following are examples of possible synergies:
 
 ### Offices that provide a public service
 
-Public services include health care, waste removal and transportation, and are systems and solutions that can benefit various groups of individuals. The government may offer these services itself or offer funding to a private organization to provide them to community members.
+Public services include health care, waste removal and transportation, and are systems and solutions that can benefit various groups of individuals. The government may offer these services itself or offer funding to a private organization to provide them to community members. - Nice
 
 ### Offices for support of other offices
 
